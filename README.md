@@ -5,3 +5,4 @@ Simple WPF Application that communicates with Microsoft's CustomVision API and p
 - Deserializing JSON objects with Newtonsoft.Json package
 - Sending a request to the REST Service
 - Showing response in GridView with StringFormat
+- Using jsonutils.com for generating classes from json response
